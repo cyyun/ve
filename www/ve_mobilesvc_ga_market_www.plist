@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>cyyun.voiceexpress.gongan</string>
 				<key>bundle-version</key>
-				<string>1.0.0430.1</string>
+				<string>1.0.1104.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>VoiceExpress(gongan)</string>
+				<string>VoiceExpress(market)</string>
 			</dict>
 		</dict>
 	</array>
