@@ -24,6 +24,8 @@
 				<string>software</string>
 				<key>title</key>
 				<string>VoiceExpress(gongan)</string>
+				<key>subtitle</key>
+                                <string>中青华云</string>
 			</dict>
 		</dict>
 	</array>
