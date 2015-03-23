@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.cyyun.com/mobiledownload/mobile/ClientVersionUpdate?device=idk</string>
+					<string>http://www.cyyun.com/mobilesvc/mobile/ClientVersionUpdate?device=idk</string>
 				</dict>
 			</array>
 			<key>metadata</key>
